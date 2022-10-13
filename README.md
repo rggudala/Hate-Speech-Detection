@@ -12,10 +12,16 @@ Social media platforms need to detect hate speech and prevent it from going vira
 
 The dataset I’m using for the hate speech detection task is downloaded from Kaggle. This dataset was originally collected from Twitter and contains the following columns:
 
-index
-count
-hate_speech
-offensive_language
-neither 
-class
-tweet 
+1.index
+
+2.count
+
+3.hate_speech
+
+4.offensive_language
+
+5.neither
+
+6.class
+
+7.tweet 
