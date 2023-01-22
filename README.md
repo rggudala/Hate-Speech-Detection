@@ -1,5 +1,8 @@
 # Hate-Speech-Detection
 
+![image](https://user-images.githubusercontent.com/108236580/213943308-23feabac-4d73-4afb-8d9d-fb2082aac547.png)
+
+
 Hate speech is one of the serious issues we see on social media platforms like Twitter and Facebook daily. Most of the posts containing hate speech can be found in the accounts of people with political views.
 
 # Hate Speech Detection with Machine Learning
